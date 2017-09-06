@@ -1,0 +1,9 @@
+83a067685257343ca5d728703c386958 *DESCRIPTION
+1826e1352f871ffdc6a73c4d71a3c813 *NAMESPACE
+91840221b2657f98d6952f225391fcc0 *R/modelexamples.R
+b56b732b09edc9d558f842ffb0ba6c3a *R/udderquarter.R
+844183ecac11f7122fee21a90e1a0380 *data/udderquarterinfection.RData
+1d0d2890055837890e30fda6d2dfde8d *inst/doc/Models_R_Code.R
+3f1074023723b37f73b66f4a033479be *man/Gamma_Frailty_Interval_Censoring.Rd
+752c7a8bc5d1373d713bdcb5a06858d7 *man/UdderQuarterInfectionData.Rd
+5f96db86c75524c6758a1209bf2d51fb *man/udderquarterinfection.Rd
